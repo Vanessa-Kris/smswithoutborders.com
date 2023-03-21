@@ -36,7 +36,7 @@ Saving Telegram access requires a phone number to be provided. A verification co
 
 ## Token Revoke
 
-Authenticated users can delete stored tokens by selecting the revoke button under saved platform's details.
+Authenticated users can delete saved tokens by selecting the revoke button under saved platform's details.
 
 ![Token revoke](images/token-revoke.png);
 
